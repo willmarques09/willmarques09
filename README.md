@@ -44,20 +44,18 @@
 
 <br/>
 <p align="left">
-   <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=DgSantos017&show_icons=true&theme=gruvbox&hide_border=true" />
+   <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=willmarques09&show_icons=true&theme=gruvbox&hide_border=true" />
    <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DgSantos017&theme=gruvbox&hide_border=true" />
-   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantos017&layout=compact&theme=gruvbox" />
+   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmarques09&layout=compact&theme=gruvbox" />
 </p><br>
 
 <div>
  
  ### Entre em contato.
 <div> 
-  <a target="_blank" href="https://www.youtube.com/channel/UCb42rlAkDw33qHrbWH59b4Q/featured"><img target="_blank" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a target="_blank" href="https://www.instagram.com/diogo__.js/"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a target="_blank" href="mailto: diogosantosferreira.01@gmail.com"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/diogo-santos01/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a target="_blank" href="https://wa.me/5598981163277"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+  <a target="_blank" href="mailto: willhanmarques09@gmail.com"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/willhan-marques-de-carvalho-a19879228/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" href="https://wa.me/5566996950327"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   
 </div>
     <img src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
