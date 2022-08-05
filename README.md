@@ -3,9 +3,10 @@
 ### 👋 Olá, eu sou Willhan Marques de Carvalho
 
 - Desenvolvedor Backend júnior Nodejs
-- 👯 Procuro adquirir e evoluir minhas habilidades
 
-- 😄 Conhecimento de inglês básico (em progresso)
+- Procuro adquirir e evoluir minhas habilidades
+
+- Conhecimento de inglês básico (em progresso)
 
 
 ### Tenho conhecimento / estou todo dia aprendendo. 
