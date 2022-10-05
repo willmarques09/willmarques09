@@ -2,7 +2,7 @@
 
 ### 👋 Olá, eu sou Willhan Marques de Carvalho
 
-- Desenvolvedor Backend júnior Nodejs
+- Desenvolvedor Full Stack júnior (buscando a primeira oportunidade)
 
 - Procuro adquirir e evoluir minhas habilidades
 
@@ -10,21 +10,11 @@
 
 
 ### Tenho conhecimento / estou todo dia aprendendo. 
-<div>
-   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-   <img alt="Express" src="https://img.shields.io/badge/Express.js-6DA55F?style=for-the-badge&logo=express&logoColor=white"/>
-   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="SQL" src ='https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white'>
-   <img alt="PostgreSQL" src ='https://img.shields.io/badge/postgres-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
-   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-6DA55F?style=for-the-badge&logo=nosql&logoColor=white"/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white"/>
-   <img alt="TypeORM" src ='https://img.shields.io/badge/typeorm-6DA55F?style=for-the-badge&logo=typeorm&logoColor=purple%27%3E'>
-   
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,materialui,jest
+)](https://skillicons.dev)
 
-<br/>
+[![Habilidades back-end](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongo,jest
+)](https://skillicons.dev)
 
 ### Demais ferramentas do dia a dia
 <div>
