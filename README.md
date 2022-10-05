@@ -10,10 +10,7 @@
 
 
 ### Tenho conhecimento / estou todo dia aprendendo. 
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,materialui,jest
-)](https://skillicons.dev)
-
-[![Habilidades back-end](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongo,jest
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,materialui,jest,nodejs,express,postgres,mongo,
 )](https://skillicons.dev)
 
 ### Demais ferramentas do dia a dia
